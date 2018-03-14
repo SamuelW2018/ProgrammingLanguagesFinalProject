@@ -1,0 +1,6 @@
+﻿  main.cpp
+\\cs1\2018\swynsma18\cs-370-1\finalproject\singlevariabletest_cplusplus\singlevariabletest_cplusplus\main.cpp(14): warning C4018: '<': signed/unsigned mismatch
+\\cs1\2018\swynsma18\cs-370-1\finalproject\singlevariabletest_cplusplus\singlevariabletest_cplusplus\main.cpp(52): warning C4018: '<': signed/unsigned mismatch
+\\cs1\2018\swynsma18\cs-370-1\finalproject\singlevariabletest_cplusplus\singlevariabletest_cplusplus\main.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  SingleVariableTest_Cplusplus.vcxproj -> \\cs1\2018\swynsma18\CS-370-1\FinalProject\SingleVariableTest_Cplusplus\Debug\SingleVariableTest_Cplusplus.exe
+  SingleVariableTest_Cplusplus.vcxproj -> \\cs1\2018\swynsma18\CS-370-1\FinalProject\SingleVariableTest_Cplusplus\Debug\SingleVariableTest_Cplusplus.pdb (Partial PDB)

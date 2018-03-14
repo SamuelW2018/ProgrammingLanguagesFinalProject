@@ -1,0 +1,8 @@
+﻿  main.cpp
+\\cs1\2018\swynsma18\cs-370-1\finalproject\bivariatetest_cplusplus\singlevariabletest_cplusplus\main.cpp(26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+\\cs1\2018\swynsma18\cs-370-1\finalproject\bivariatetest_cplusplus\singlevariabletest_cplusplus\main.cpp(33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+\\cs1\2018\swynsma18\cs-370-1\finalproject\bivariatetest_cplusplus\singlevariabletest_cplusplus\main.cpp(41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+\\cs1\2018\swynsma18\cs-370-1\finalproject\bivariatetest_cplusplus\singlevariabletest_cplusplus\main.cpp(77): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+\\cs1\2018\swynsma18\cs-370-1\finalproject\bivariatetest_cplusplus\singlevariabletest_cplusplus\main.cpp(97): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SingleVariableTest_Cplusplus.vcxproj -> \\cs1\2018\swynsma18\CS-370-1\FinalProject\BivariateTest_Cplusplus\x64\Debug\SingleVariableTest_Cplusplus.exe
+  SingleVariableTest_Cplusplus.vcxproj -> \\cs1\2018\swynsma18\CS-370-1\FinalProject\BivariateTest_Cplusplus\x64\Debug\SingleVariableTest_Cplusplus.pdb (Partial PDB)
